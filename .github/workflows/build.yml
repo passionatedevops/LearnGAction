@@ -8,3 +8,4 @@ jobs:
     steps: 
       - run: node -v
       - run: npm -v
+      - run: npm install
